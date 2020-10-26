@@ -1,0 +1,33 @@
+print("TUGAS 1 ALGORITMA DAN PEMROGRAMAN A")
+print("--------------------------------------")
+#SAYA TAKUT SALAH KAK
+
+
+'''saya bingung ini mbuat program kalau sesuai yang ditugaskan asdos, berasa rada aneh, kenapa?
+masa gitu aja kak? cuma prant print aja hehe :3'''
+'''mau tanya tapi malu, jadi ini mbuat 2 yang bisa ngisi,
+sama yang cuma ngeprint (langsung muncul), maaf kak, soalnya saya takut salah'''
+
+
+print("INI YANG PERTAMA KAK")
+print("--------------------------------------")
+
+ini_namasayakak = input('jenengmu sopo:')
+ini_nimsayakak = input('énim mu piro:')
+ini_kelassayakak = input('kelasmu opo:')
+
+print("--------------------------------------")
+
+print('NAMA     :', ini_namasayakak)
+print('NIM      :', ini_nimsayakak)
+print('KELAS    :', ini_kelassayakak)
+
+print("--------------------------------------")
+print("INI YANG KEDUA KAK")
+print("--------------------------------------")
+
+print("NAMA     : Pramudya Widi Pradipta")
+print("NIM      : 202410101130")
+print("KELAS    : A")
+
+print("--------------------------------------")
